@@ -41,8 +41,7 @@ The goal of this project is to understand how each pattern works and implement p
 
 ## Purpose
 
-This repository is mainly for **learning and practice**, as well as to serve as part of my **developer portfolio**.
-
+This repository is mainly for **learning and practice**
 Each pattern will include:
 - Explanation
 - UML or structure
